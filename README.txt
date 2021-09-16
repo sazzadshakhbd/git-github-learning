@@ -1,3 +1,6 @@
+Git Setup
+---------
+1. git init [git initialize]
 Git Add Command
 ---------------
 1. git add --all [All all files & folder]
@@ -27,5 +30,12 @@ Git Branching
 2. git branch development [create and copy master branch all and create & paste development branch]
 3. git checkout development [switch to development branch from master branch]
 4. git merge development[brach name] -m "merge development branch" [Merge development branch to main branch]
+
+Git Remote
+----------
+1. git push origin development [push development branch remotely]
+2. git push [push main branch]
+3. git fetch [push change files]
+4. git merge [if you git fetch command then git merge command have to be done.]
 
 
