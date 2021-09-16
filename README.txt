@@ -12,3 +12,11 @@ Git command role back
 ---------------------
 1. git reset HEAD~ [Back to previous stage after commit]
 2. git reset --hard [Back to deleted file & folder after commit]
+
+Git command remove file
+-----------------------
+1. git rm two.txt [Remove files command]
+2. git rm one.txt -f [Remove files and folder command forcefully]
+3. git rm myfolder -r [Remove folder command]
+
+
