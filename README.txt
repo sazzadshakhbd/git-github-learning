@@ -17,6 +17,8 @@ Git command remove file
 -----------------------
 1. git rm two.txt [Remove files command]
 2. git rm one.txt -f [Remove files and folder command forcefully]
-3. git rm myfolder -r [Remove folder command]
+3. git rm myfolder -r [Remove folder to inner folder and file command ]
+4. git rm --cached one.txt [Remove files but not changed staged]
+5. git rm myfolder [Remove only folder]
 
 
