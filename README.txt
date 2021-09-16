@@ -11,3 +11,4 @@ Git Add & Reset Command
 Git command role back
 ---------------------
 1. git reset HEAD~ [Back to previous stage after commit]
+2. git reset --hard [Back to deleted file & folder after commit]
