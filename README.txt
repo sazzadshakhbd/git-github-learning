@@ -26,6 +26,6 @@ Git Branching
 1. git branch [show branch list]
 2. git branch development [create and copy master branch all and create & paste development branch]
 3. git checkout development [switch to development branch from master branch]
-4. 
+4. git merge development[brach name] -m "merge development branch" [Merge development branch to main branch]
 
 
